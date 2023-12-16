@@ -1,3 +1,2 @@
-# Python力扣
-
-Python力扣代码
+# PythonLeetcode
+Python的力扣代码
